@@ -1,14 +1,14 @@
 Summary:	Command-line frontend to libgphoto2
 Name:		gphoto2
-Version:	2.5.1
+Version:	2.5.4
 Release:	1
 License:	GPL
 Group:		Applications/Graphics
 Source0:	http://downloads.sourceforge.net/gphoto/%{name}-%{version}.tar.bz2
-# Source0-md5:	03cda6d5b7c647ac4c90d0081f2cb7c7
+# Source0-md5:	55e062dfb09a9589b4f9d6d545724c60
 URL:		http://www.gphoto.org/
 BuildRequires:	libexif-devel
-BuildRequires:	libgphoto2-devel >= 2.5.1
+BuildRequires:	libgphoto2-devel >= 2.5.4
 BuildRequires:	libjpeg-devel
 BuildRequires:	pkg-config
 BuildRequires:	popt-devel
